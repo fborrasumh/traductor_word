@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "Si usas este software, cítalo con estos metadatos."
-title: "Traductor Word"
+title: "TraducIA (Traductor Word)"
+abstract: "Traduce documentos Word (.docx) a otro idioma conservando el diseño y el formato dentro del párrafo; el código comprueba marcas de formato, datos protegidos, cifras, glosario y longitud de cada traducción."
 type: software
 authors:
   - family-names: "Borrás Rocher"
@@ -8,8 +9,9 @@ authors:
     affiliation: "Universidad Miguel Hernández de Elche"
     orcid: "https://orcid.org/0000-0002-5519-4573"
 doi: "10.5281/zenodo.21423391"
-version: "1.0.0"
-date-released: "2026-07-18"
+version: "2.0.0"
+date-released: "2026-11-20"
 url: "https://fborrasumh.github.io/traductor_word/"
 repository-code: "https://github.com/fborrasumh/traductor_word"
 license: MIT
+keywords: ["traducción", "docx", "Word", "IA generativa", "preservación de formato"]
